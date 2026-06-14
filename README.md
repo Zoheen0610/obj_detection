@@ -1,4 +1,4 @@
-# 🎯 YOLOv8 Real-Time Object Detection
+# YOLOv8 Real-Time Object Detection
 
 Real-time object detection using YOLOv8 and OpenCV with live per-class counting, annotated video saving, and image inference.
 
